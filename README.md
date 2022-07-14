@@ -94,10 +94,10 @@ User will first be introduced to the home page where he/she can choose from item
 
 ### User Interfaces
 
-[Home Page](https://i.imgur.com/OVHdQnz.png)
-[Product Page](https://i.imgur.com/H5NiRVu.png)
-[UserListing](https://i.imgur.com/6ZDQK6y.png)
-[Listing Page](https://i.imgur.com/y9HUCBb.png)
+- [Home Page](https://i.imgur.com/OVHdQnz.png)
+- [Product Page](https://i.imgur.com/H5NiRVu.png)
+- [UserListing](https://i.imgur.com/6ZDQK6y.png)
+- [Listing Page](https://i.imgur.com/y9HUCBb.png)
 
 ### Communications Interfaces
 
