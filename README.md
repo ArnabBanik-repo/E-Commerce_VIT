@@ -94,10 +94,10 @@ User will first be introduced to the home page where he/she can choose from item
 
 ### User Interfaces
 
-[![Home Page](https://drive.google.com/file/d/1C6MSlo88nR0retzAJqka2HKon6CJUldl/view?usp=sharing "Home Page")](https://drive.google.com/file/d/1C6MSlo88nR0retzAJqka2HKon6CJUldl/view?usp=sharing "Home Page")
-[![Product Page](https://drive.google.com/file/d/14H9-BJ63A8ZIez42wgrKJkUwSoRtMeLt/view?usp=sharing "Product Page")](https://drive.google.com/file/d/14H9-BJ63A8ZIez42wgrKJkUwSoRtMeLt/view?usp=sharing "Product Page")
-[![User Listing Page](https://drive.google.com/file/d/1RWp5Zi9QOYxOF00bE9tyBVYdB9Isoynn/view?usp=sharing "Listing Page")](https://drive.google.com/file/d/1RWp5Zi9QOYxOF00bE9tyBVYdB9Isoynn/view?usp=sharing "Listing Page")
-[![Listing Page](https://drive.google.com/file/d/1Zx423j0bvbxxKf0YJ34iGF6Pbq_quIeB/view?usp=sharing "Listing Page")](https://drive.google.com/file/d/1Zx423j0bvbxxKf0YJ34iGF6Pbq_quIeB/view?usp=sharing "Listing Page")
+[Home Page](https://i.imgur.com/OVHdQnz.png)
+[Product Page](https://i.imgur.com/H5NiRVu.png)
+[UserListing](https://i.imgur.com/6ZDQK6y.png)
+[Listing Page](https://i.imgur.com/y9HUCBb.png)
 
 ### Communications Interfaces
 
